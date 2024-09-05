@@ -1,0 +1,443 @@
+Array
+(
+    [0] => Array
+        (
+            [user_id] => 1
+            [mbti] => INFP
+            [personality] => creative,compassionate,adventurous
+            [sport] => tennis,swimming
+            [food] => italian
+            [fashion] => casual,bohemian,formal
+            [interest] => books
+        )
+
+    [1] => Array
+        (
+            [user_id] => 2
+            [mbti] => ENTJ
+            [personality] => ambitious,intellectual
+            [sport] => running
+            [food] => mexican,indian
+            [fashion] => formal
+            [interest] => music,movies,theartre
+        )
+
+    [2] => Array
+        (
+            [user_id] => 3
+            [mbti] => INTJ
+            [personality] => analytical,ambitious
+            [sport] => basketball,gym
+            [food] => japanese,vegan
+            [fashion] => minimalist,formal
+            [interest] => books,photography
+        )
+
+    [3] => Array
+        (
+            [user_id] => 4
+            [mbti] => ENFP
+            [personality] => adventurous,creative,intellectual
+            [sport] => martial arts
+            [food] => indian,mediterranean
+            [fashion] => vintage
+            [interest] => travelling,books,cooking
+        )
+
+    [4] => Array
+        (
+            [user_id] => 5
+            [mbti] => ESFP
+            [personality] => outgoing,easygoing
+            [sport] => football
+            [food] => mediterranean,thai
+            [fashion] => streetwear,hip-hop,minimalist
+            [interest] => music,cooking,gaming
+        )
+
+    [5] => Array
+        (
+            [user_id] => 6
+            [mbti] => ISTJ
+            [personality] => analytical,easygoing
+            [sport] => basketball,running,swimming
+            [food] => chinese,thai
+            [fashion] => casual,preppy,streetwear
+            [interest] => movies,books,music
+        )
+
+    [6] => Array
+        (
+            [user_id] => 7
+            [mbti] => ESTP
+            [personality] => outgoing,adventurous
+            [sport] => football,basketball,gym
+            [food] => italian,mexican,chinese
+            [fashion] => streetwear,hip-hop,minimalist
+            [interest] => gaming,travelling
+        )
+
+    [7] => Array
+        (
+            [user_id] => 8
+            [mbti] => INTP
+            [personality] => intellectual,analytical,creative
+            [sport] => tennis,cycling
+            [food] => mediterranean
+            [fashion] => minimalist,casual
+            [interest] => books
+        )
+
+    [8] => Array
+        (
+            [user_id] => 9
+            [mbti] => ENFJ
+            [personality] => compassionate,outgoing
+            [sport] => swimming
+            [food] => japanese,chinese,thai
+            [fashion] => formal,preppy
+            [interest] => travelling
+        )
+
+    [9] => Array
+        (
+            [user_id] => 10
+            [mbti] => ISFP
+            [personality] => ambitious,intellectual
+            [sport] => running
+            [food] => chinese
+            [fashion] => formal
+            [interest] => theatre,travelling,movies
+        )
+
+    [10] => Array
+        (
+            [user_id] => 11
+            [mbti] => ENTJ
+            [personality] => ambitious,intellectual
+            [sport] => running
+            [food] => italian,chinese,thai
+            [fashion] => formal,hip-hop
+            [interest] => music,cooking
+        )
+
+    [11] => Array
+        (
+            [user_id] => 12
+            [mbti] => INFJ
+            [personality] => compassionate,creative
+            [sport] => swimming,basketball
+            [food] => vegan
+            [fashion] => vintage,casual
+            [interest] => books,movies,photography
+        )
+
+    [12] => Array
+        (
+            [user_id] => 13
+            [mbti] => ESFJ
+            [personality] => outgoing,easygoing,adventurous
+            [sport] => tennis,gym
+            [food] => japanese,indian,mexican
+            [fashion] => preppy,streetwear,formal
+            [interest] => music,cooking
+        )
+
+    [13] => Array
+        (
+            [user_id] => 14
+            [mbti] => ISTP
+            [personality] => analytical
+            [sport] => football,cycling
+            [food] => thai
+            [fashion] => hip-hop
+            [interest] => gaming
+        )
+
+    [14] => Array
+        (
+            [user_id] => 15
+            [mbti] => ENFP
+            [personality] => adventurous,creative,outgoing
+            [sport] => running,martial arts
+            [food] => italian
+            [fashion] => vintage,casual
+            [interest] => travelling,music
+        )
+
+    [15] => Array
+        (
+            [user_id] => 16
+            [mbti] => ESTJ
+            [personality] => ambitious
+            [sport] => basketball,gym
+            [food] => chinese
+            [fashion] => formal,preppy
+            [interest] => books,theatre
+        )
+
+    [16] => Array
+        (
+            [user_id] => 17
+            [mbti] => INFP
+            [personality] => creative,compasionate,analytic
+            [sport] => swimming,gym
+            [food] => japanese,indian,chinese
+            [fashion] => casual,formal,bohemian
+            [interest] => music
+        )
+
+    [17] => Array
+        (
+            [user_id] => 18
+            [mbti] => ISFJ
+            [personality] => easygoing
+            [sport] => gym
+            [food] => thai,mexican
+            [fashion] => minimalist
+            [interest] => books
+        )
+
+    [18] => Array
+        (
+            [user_id] => 19
+            [mbti] => ENTP
+            [personality] => adventurous,outgoing
+            [sport] => running,football
+            [food] => vegan
+            [fashion] => streetwear
+            [interest] => gaming,travelling
+        )
+
+    [19] => Array
+        (
+            [user_id] => 20
+            [mbti] => ESTP
+            [personality] => outgoing
+            [sport] => basketball,tennis,gym
+            [food] => italian,chinese,thai
+            [fashion] => casual
+            [interest] => music,movies,theatre
+        )
+
+    [20] => Array
+        (
+            [user_id] => 21
+            [mbti] => INTJ
+            [personality] => analytical,intellectual,ambitious
+            [sport] => swimming,gym
+            [food] => indian,thai
+            [fashion] => formal,minimalist
+            [interest] => books,photography
+        )
+
+    [21] => Array
+        (
+            [user_id] => 22
+            [mbti] => INFJ
+            [personality] => compassionate,creative,intellectual
+            [sport] => tennis
+            [food] => japanese,mediterranean
+            [fashion] => vintage,bohemian
+            [interest] => music,cooking
+        )
+
+    [22] => Array
+        (
+            [user_id] => 23
+            [mbti] => ISTJ
+            [personality] => analytical,easygoing
+            [sport] => football,cycling,gym
+            [food] => mexican,chinese,thai
+            [fashion] => minimalist
+            [interest] => movies,travelling
+        )
+
+    [23] => Array
+        (
+            [user_id] => 24
+            [mbti] => ENFP
+            [personality] => adventurous
+            [sport] => gym
+            [food] => italian,indian,chinese
+            [fashion] => streetwear,casual,preppy
+            [interest] => music,photography
+        )
+
+    [24] => Array
+        (
+            [user_id] => 25
+            [mbti] => ISFP
+            [personality] => creative,compassionate,ambitious
+            [sport] => swimming,running,gym
+            [food] => mediterranean
+            [fashion] => vintage
+            [interest] => theatre,cooking
+        )
+
+    [25] => Array
+        (
+            [user_id] => 26
+            [mbti] => ENTJ
+            [personality] => ambitious
+            [sport] => football,martial arts
+            [food] => japanese,chinese
+            [fashion] => formal,bohemian
+            [interest] => books,travelling
+        )
+
+    [26] => Array
+        (
+            [user_id] => 27
+            [mbti] => ENFJ
+            [personality] => outgoing,compassionate
+            [sport] => basketball,tennis,swimming
+            [food] => italian,vegan,chinese
+            [fashion] => casual
+            [interest] => music,theatre
+        )
+
+    [27] => Array
+        (
+            [user_id] => 28
+            [mbti] => ISTP
+            [personality] => adventurous,analytical,intellectual
+            [sport] => cycling,running,gym
+            [food] => indian
+            [fashion] => hip-hop,minimalist,formal
+            [interest] => gaming,photography,music
+        )
+
+    [28] => Array
+        (
+            [user_id] => 29
+            [mbti] => INFP
+            [personality] => creative,compassionate,easygoing
+            [sport] => swimming,tennis,gym
+            [food] => japanese
+            [fashion] => bohemian,vintage
+            [interest] => music,books
+        )
+
+    [29] => Array
+        (
+            [user_id] => 30
+            [mbti] => ESFP
+            [personality] => outgoing,easygoing
+            [sport] => football
+            [food] => chinese,thai
+            [fashion] => streetwear,preppy
+            [interest] => movies
+        )
+
+    [30] => Array
+        (
+            [user_id] => 31
+            [mbti] => INTJ
+            [personality] => analytical,intellectual
+            [sport] => running
+            [food] => vegan,chinese,italian
+            [fashion] => formal,minimalist,streetwear
+            [interest] => books,travelling
+        )
+
+    [31] => Array
+        (
+            [user_id] => 32
+            [mbti] => ENFP
+            [personality] => adventurous,creative
+            [sport] => swimming,running,gym
+            [food] => italian,indian,chinese
+            [fashion] => vintage,casual,formal
+            [interest] => music,photography,movies
+        )
+
+    [32] => Array
+        (
+            [user_id] => 33
+            [mbti] => ISFJ
+            [personality] => easygoing,compassionate,ambitious
+            [sport] => cycling,tennis,swimming
+            [food] => japanese,chinese,thai
+            [fashion] => minimalist,streetwear,vintage
+            [interest] => theatre,cooking,gaming
+        )
+
+    [33] => Array
+        (
+            [user_id] => 34
+            [mbti] => ENTP
+            [personality] => outgoing,adventurous,compassionate
+            [sport] => football,running,gym
+            [food] => mexican,thai,italian
+            [fashion] => streetwear,hip-hop
+            [interest] => gaming,travelling,music
+        )
+
+    [34] => Array
+        (
+            [user_id] => 35
+            [mbti] => INFJ
+            [personality] => compassionate
+            [sport] => basketball,swimming,gym
+            [food] => italian,vegan,chinese
+            [fashion] => vintage,casual
+            [interest] => gaming
+        )
+
+    [35] => Array
+        (
+            [user_id] => 36
+            [mbti] => ESTJ
+            [personality] => ambitious,analytical
+            [sport] => tennis
+            [food] => indian,mediterranean
+            [fashion] => formal
+            [interest] => books,theatre
+        )
+
+    [36] => Array
+        (
+            [user_id] => 37
+            [mbti] => INFP
+            [personality] => creative,compassionate
+            [sport] => running
+            [food] => japanese,chinese
+            [fashion] => casual
+            [interest] => music,photography
+        )
+
+    [37] => Array
+        (
+            [user_id] => 38
+            [mbti] => ESFJ
+            [personality] => outgoing
+            [sport] => football
+            [food] => thai
+            [fashion] => streetwear,preppy
+            [interest] => movies,cooking
+        )
+
+    [38] => Array
+        (
+            [user_id] => 39
+            [mbti] => INTJ
+            [personality] => analytical,intellectual,compassionate
+            [sport] => swimming,gym
+            [food] => mediterranean
+            [fashion] => minimalist
+            [interest] => books
+        )
+
+    [39] => Array
+        (
+            [user_id] => 40
+            [mbti] => ENFJ
+            [personality] => outgoing,compassionate
+            [sport] => tennis,gym
+            [food] => japanese,chinese
+            [fashion] => casual,formal
+            [interest] => music,movies,theatre
+        )
+
+)
